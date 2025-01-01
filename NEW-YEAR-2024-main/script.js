@@ -1,4 +1,6 @@
-
+// coded by rajibul 
+//if u copy the code you gay (boys)
+//if u copy the code you are not straight xd (girls)
 var c = document.getElementById("Canvas");
 var ctx = c.getContext("2d");
 
